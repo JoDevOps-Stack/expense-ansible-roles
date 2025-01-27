@@ -20,6 +20,7 @@
   include_role:
     name: common
     tasks_from: main
+    
 # - name: create app directory
 #   ansible.builtin.file:
 #     path: /app   # where we want to create dirrectory                                             # what is remote machine?
